@@ -91,7 +91,8 @@ Dashboard (PBIX)
 
 Cleaned Dataset (CSV)
 
-Png.Image
+Image.Png
+
 
 
 
